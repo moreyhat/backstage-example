@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sample
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   description: sample page
   tags:
     - cicd
