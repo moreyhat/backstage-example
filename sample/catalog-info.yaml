@@ -4,9 +4,9 @@ metadata:
   name: sample
   description: sample page
   tags:
-    - CICD
-    - DevOps
-    - Data Analytics
+    - cicd
+    - devops
+    - anaylytics
   links:
     - url: https://www.google.com
       title: Google
