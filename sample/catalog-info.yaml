@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1beta2
+kind: Component
+metadata:
+  name: sample
+  description: sample page
+  tags:
+    - CI/CD
+    - DevOps
+    - Data Analytics
+  links:
+    - url: https://www.google.com
+      title: Google
+      icon: cloud
+spec:
+  type: website
+  lifecycle: development
+  owner: dev-team
